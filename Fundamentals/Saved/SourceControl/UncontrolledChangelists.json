@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/9Y/413HS59K4RLW7IRPUL06CQ.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/C7/UAXGK3P4WA5KXXUDG7MEIZ.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/RawContnet/Pumpkin_Paint.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HQ/F1C6OVGT2CV18OQRZFF3LD.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/0F/WL62U3RLA654W5FCSTTJ9D.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/DV/5LLGLRJ7VR862S9PLEC6XW.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/3S/2MCXMAOC6LD70XASNFQXPB.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/RawContent/Mat1.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/KY/LHMRCP8223QB9MJ1LBZA4T.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/RawContent/StardewPumpkinPaint.uasset",
+				"C:/Users/jtpop/OneDrive/Documents/GitHub/LandscapProj/Fundamentals/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
